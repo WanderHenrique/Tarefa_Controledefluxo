@@ -1,4 +1,4 @@
-// Declaramos as variáveis que vamos usar
+// Declaramos as variáveis 
 let nota1, nota2, nota3, nota4;
 let media;
 
